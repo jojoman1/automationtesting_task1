@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/adidar/pages/BasePage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/main/java/org/adidar/pages/CartPage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/main/java/org/adidar/pages/CheckoutPage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/main/java/org/adidar/pages/HomePage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/main/java/org/adidar/pages/LoginPage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/main/java/org/adidar/pages/ProductPage.java;C:/Users/DELL/Desktop/automationtesting_task1/src/test/java/org/adidar/tests/BaseTest.java;C:/Users/DELL/Desktop/automationtesting_task1/src/test/java/org/adidar/tests/PlaceOrderTest.java" />
+  </component>
+</project>
